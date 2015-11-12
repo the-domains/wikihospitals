@@ -4,7 +4,7 @@
         <description><![CDATA[Wikihospitals]]></description>
         <link>https://thegrid.ai/wikihospitals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 11:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 12:22:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wikihospitals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wikihospitals overview]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/wikihospitals/wikihospitals-overview/index.html</link>
             <guid isPermaLink="false">8f2acdc8-1e98-46e3-9dd9-9472fc3cec19</guid>
             <pubDate>Thu, 12 Nov 2015 11:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doctor, patient, nurse]]></title>
+            <description><![CDATA[<article><h1>Doctor, patient, nurse</h1><p>Thanks to my friends for posting in the nursing lab.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db98f633-561b-463d-9a97-5cf457778768.png"></article>]]></description>
+            <link>https://thegrid.ai/wikihospitals/doctor-patient-nurse/index.html</link>
+            <guid isPermaLink="false">8a62bbdf-473c-45c9-903d-a8097ec3c089</guid>
+            <pubDate>Thu, 12 Nov 2015 12:22:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
