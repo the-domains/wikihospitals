@@ -1,7 +1,7 @@
 name: Wikihospitals
 favicon: null
-layout_spectrum: 0.11725266673602164
-typography_spectrum: 0.7986918434035033
+layout_spectrum: 0.38392
+typography_spectrum: 0.3225
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.06257752166129649
-  lightness: 0.7034428638871759
-  saturation: 0.08796259108930826
+  brandColors:
+    - '#2d281f'
+    - '#e1dccc'
+    - '#bab49c'
+    - '#857f73'
+    - '#781a10'
+  brandStrength: 0.0625
+  lightness: 0.75
+  saturation: 0.625
   rhythmicContrast: 0.5700805182568729
 purpose: []
