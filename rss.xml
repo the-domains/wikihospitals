@@ -2,16 +2,22 @@
     <channel>
         <title><![CDATA[Wikihospitals]]></title>
         <description><![CDATA[Wikihospitals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wikihospitals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 11:43:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 11:46:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wikihospitals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wikihospitals overview]]></title>
             <description><![CDATA[<article><h1>Wikihospitals overview</h1><p>What is Wikihospitals?</p></article>]]></description>
-            <link>undefinedwikihospitals-overview/index.html</link>
+            <link>https://thegrid.ai/wikihospitals/wikihospitals-overview/index.html</link>
             <guid isPermaLink="false">8f2acdc8-1e98-46e3-9dd9-9472fc3cec19</guid>
             <pubDate>Thu, 12 Nov 2015 11:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/wikihospitals/5d782644-361e-4b8d-97c8-8a7a0186c318/index.html</link>
+            <guid isPermaLink="false">5d782644-361e-4b8d-97c8-8a7a0186c318</guid>
+            <pubDate>Thu, 12 Nov 2015 11:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
