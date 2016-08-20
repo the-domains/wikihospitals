@@ -63,16 +63,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/gQyBxdjiCOY'
 title: PredictBGL
-datePublished: '2016-08-20T15:03:41.439Z'
-dateModified: '2016-08-20T14:57:18.916Z'
+datePublished: '2016-08-20T15:12:00.994Z'
+dateModified: '2016-08-20T15:12:00.253Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-predictbgl.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: predictbgl/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
