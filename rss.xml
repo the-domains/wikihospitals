@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A new world of information]]></title>
+        <description><![CDATA[A new world of information]]></description>
+        <link>https://thegrid.ai/wikihospitals/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Aug 2016 08:49:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wikihospitals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wikihospitals overview]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f471b6cb-9333-4c2d-b167-1b14314b92f7.jpg" alt="Lack of international competition, secrecy about cost and effectiveness and the emotional impact of disease are a potent mix.">]]></description>
+            <link>https://thegrid.ai/wikihospitals/wikihospitals-overview/index.html</link>
+            <guid isPermaLink="false">8f2acdc8-1e98-46e3-9dd9-9472fc3cec19</guid>
+            <pubDate>Sat, 20 Aug 2016 07:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doctor, patient, nurse]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd3ae38-8518-4170-b8a9-18650260b429.jpg" alt="Safe, accurate diabetic care can be delivered by low cost, high tech Health Startups">]]></description>
+            <link>https://thegrid.ai/wikihospitals/doctor-patient-nurse/index.html</link>
+            <guid isPermaLink="false">8a62bbdf-473c-45c9-903d-a8097ec3c089</guid>
+            <pubDate>Sat, 20 Aug 2016 08:49:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
