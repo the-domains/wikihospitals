@@ -1,19 +1,4 @@
-name: Wikihospitals
-favicon: null
-layout_spectrum: 0.953
 typography_spectrum: 0.81139
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2d281f'
@@ -25,4 +10,20 @@ color:
   lightness: 0.75
   saturation: 0.625
   rhythmicContrast: 0.5700805182568729
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.953
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Wikihospitals
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: 'Match diseases, industry problems and startup solutions'
 purpose: []
