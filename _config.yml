@@ -1,5 +1,6 @@
-layout_spectrum: 0.8240843717940152
 typography_spectrum: 0.34067559731192887
+content_rating:
+  adult: true
 color:
   brandColors:
     - '#CFC291'
@@ -15,16 +16,23 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8240843717940152
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Delia Scales
+  url: 'http://www.wikihospitals.org/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/27c429a3-ce5f-4add-95fa-a18b34f76d47.jpg
 name: Wikihospitals
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b246c5d-6413-4591-b08e-752d07734207.jpg
 title: A new world of information
 description: 'Match diseases, industry problems and startup solutions'
 purpose: []
