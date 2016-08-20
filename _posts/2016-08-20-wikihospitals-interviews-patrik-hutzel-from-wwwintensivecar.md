@@ -63,17 +63,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/3D1KZ0g7tAg'
 title: Wikihospitals interviews Patrik Hutzel from www.intensivecareathome.com.au
-datePublished: '2016-08-20T14:59:55.457Z'
-dateModified: '2016-08-20T14:59:42.572Z'
+datePublished: '2016-08-20T15:05:31.361Z'
+dateModified: '2016-08-20T15:05:30.444Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-20-wikihospitals-interviews-patrik-hutzel-from-wwwintensivecar.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: wikihospitals-interviews-patrik-hutzel-from-wwwintensivecar/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
