@@ -4,7 +4,7 @@
         <description><![CDATA[A new world of information]]></description>
         <link>https://thegrid.ai/wikihospitals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 15:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 15:02:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wikihospitals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wikihospitals overview]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/wikihospitals/wikihospitals-overview/index.html</link>
             <guid isPermaLink="false">8f2acdc8-1e98-46e3-9dd9-9472fc3cec19</guid>
             <pubDate>Sat, 20 Aug 2016 07:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dr Grant Blashki]]></title>
+            <description><![CDATA[<article><h1>Dr Grant Blashki</h1><p>Australian GP Grant Blashki has taken to shooting a range of educational videos on his iPhone. He sits in his office and films himself talking about the types of physical and mental issues he commonly seeks in general practice, in a friendly and down to earth manner.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a570fe607d1dbdf002ba6b66d26da55f/croprotate.jpg?cropheight=281&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Feko8gEg6I98%2Fhqdefault.jpg&x=0&y=39"></article>]]></description>
+            <link>https://youtu.be/eko8gEg6I98</link>
+            <guid isPermaLink="false">b1f7349b-1f88-4c28-9aea-e479fbaa1232</guid>
+            <pubDate>Sat, 20 Aug 2016 15:02:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robyn Lindley GMDx]]></title>
