@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Australian site
+    url: 'http://www.wikihospitals.org/'
+    type: external
 favicon: null
 title: A new world of information
 description: 'Matching diseases, industry problems and startup solutions'
