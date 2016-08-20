@@ -64,8 +64,8 @@ app_links:
     namespace: google
     type: ios
 title: Wikihospitals interviews Patrik Hutzel from www.intensivecareathome.com.au
-datePublished: '2016-08-20T15:05:31.361Z'
-dateModified: '2016-08-20T15:05:30.444Z'
+datePublished: '2016-08-20T15:16:57.350Z'
+dateModified: '2016-08-20T15:16:56.329Z'
 via: {}
 sourcePath: >-
   _posts/2016-08-20-wikihospitals-interviews-patrik-hutzel-from-wwwintensivecar.md
