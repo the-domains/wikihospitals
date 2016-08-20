@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Videos
-    id: 57080c8f-c83c-4781-9df0-2e057beaa86c
-    type: content
 favicon: null
 title: A new world of information
 description: 'Matching diseases, industry problems and startup solutions'
