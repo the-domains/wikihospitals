@@ -4,7 +4,7 @@
         <description><![CDATA[A new world of information]]></description>
         <link>https://thegrid.ai/wikihospitals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 15:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 15:01:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wikihospitals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wikihospitals overview]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 20 Aug 2016 07:45:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Syd]]></title>
+            <description><![CDATA[<article><h1>Syd</h1><p>One woman's story of bad experiences in an Australian hospital</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e59f643bee279c784c1b65844f7164c2/croprotate.jpg?cropheight=289&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FY6feVWbMtuY%2Fhqdefault.jpg&x=0&y=32"></article>]]></description>
+            <link>https://youtu.be/Y6feVWbMtuY</link>
+            <guid isPermaLink="false">4d1b3b35-95cf-474f-9653-7a667937c404</guid>
+            <pubDate>Sat, 20 Aug 2016 15:01:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wikihospitals interviews Patrik Hutzel from www.intensivecareathome.com.au]]></title>
-            <description><![CDATA[<article><h1>Wikihospitals interviews Patrik Hutzel from www.intensivecareathome.com.au</h1><p>Patrik Hutzel currently is currently working as an intensive care nurse at a major public hospital in Australia. He has previously worked in a home-based intensive care service in Germany. This service provides ventilator dependent patients with a twenty four hour critical care nursing service.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Wikihospitals interviews Patrik Hutzel from www.intensivecareathome.com.au</h1><p>Patrik Hutzel currently is currently working as an intensive care nurse at a major public hospital in Australia. He has previously worked in a home-based intensive care service in Germany. This service provides ventilator dependent patients with a twenty four hour critical care nursing service.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6620fd8e6dfb25f7022194010298328/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3D1KZ0g7tAg%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://youtu.be/3D1KZ0g7tAg</link>
             <guid isPermaLink="false">2dc8a33e-5bb6-4e00-a83b-f9cf6e574e5a</guid>
             <pubDate>Sat, 20 Aug 2016 14:59:55 GMT</pubDate>
