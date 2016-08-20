@@ -4,7 +4,7 @@
         <description><![CDATA[A new world of information]]></description>
         <link>https://thegrid.ai/wikihospitals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 15:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 15:01:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wikihospitals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wikihospitals overview]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/wikihospitals/wikihospitals-overview/index.html</link>
             <guid isPermaLink="false">8f2acdc8-1e98-46e3-9dd9-9472fc3cec19</guid>
             <pubDate>Sat, 20 Aug 2016 07:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robyn Lindley GMDx]]></title>
+            <description><![CDATA[<article><h1>Robyn Lindley GMDx</h1><p>This very talented Australian woman has spend years studying complex medical data. She and her partner have found links between patterns of genetic damage occurring over people's lifetime, and their risks of developing various types of cancer. She has set up a company called GMDx based in Melbourne and holds the patient to undertake specific types of genetic testing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ca574e5135c894b8f74dc50c8222762/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXJqimDbx_mQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/XJqimDbx_mQ</link>
+            <guid isPermaLink="false">50e32cb0-e085-428f-a69d-efac0573554c</guid>
+            <pubDate>Sat, 20 Aug 2016 15:01:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Syd]]></title>
