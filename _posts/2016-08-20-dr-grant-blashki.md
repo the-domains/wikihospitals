@@ -65,11 +65,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/eko8gEg6I98'
 title: Dr Grant Blashki
-datePublished: '2016-08-20T15:02:22.192Z'
-dateModified: '2016-08-20T14:58:35.268Z'
+datePublished: '2016-08-21T03:03:34.412Z'
+dateModified: '2016-08-21T03:03:34.305Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-dr-grant-blashki.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
