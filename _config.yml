@@ -1,4 +1,3 @@
-layout_spectrum: 0.836187876528129
 typography_spectrum: 0.5535328211262822
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.836187876528129
 analytics:
   google: null
   facebook: null
@@ -31,6 +31,9 @@ navigation:
   - name: ' Videos'
     id: 2dc8a33e-5bb6-4e00-a83b-f9cf6e574e5a
     type: content
+  - name: Startups Database
+    url: 'https://wikihospitals.knack.com/health-startups-australia#home/'
+    type: external
 favicon: null
 title: A new world of information
 description: 'Matching diseases, industry problems and startup solutions'
